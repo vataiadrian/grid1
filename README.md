@@ -1,1 +1,1 @@
-# https://vataiadrian.github.io/grid1/index.html
+# https://vataiadrian.github.io/grid1/Index.html
